@@ -8,7 +8,7 @@ from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 
 # توکن بات
-TOKEN = '8122288665:AAHVQ3pVTrfTj0a_caGuITz3K4vxXoO9vcw'
+TOKEN = ''
 
 # یه salt ثابت برای امنیت
 SALT = b'my_super_secret_salt_123'
